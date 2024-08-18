@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWpf>true</UseWpf>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DataBindingDemo</RootNamespace>
+    <AssemblyName>DataBindingDemo</AssemblyName>
+  </PropertyGroup>
+
+</Project>
